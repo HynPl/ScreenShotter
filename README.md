@@ -1,2 +1,2 @@
 # ScreenShotter
-Win + Print Screen alternative
+[Win] + [Print Screen] alternative
